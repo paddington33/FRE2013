@@ -1,0 +1,6 @@
+Name: lrs
+Description: Description of lrs
+Version: 0.0.0
+Cflags: -I/home/fre2013/catkin_ws/src/lrs/include
+Libs: -L/home/fre2013/catkin_ws/src/lrs/devel/lib 
+Requires: 

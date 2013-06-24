@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "lrs")
+set(lrs_MAINTAINER "fre2013 <fre2013@todo.todo>")
+set(lrs_DEPRECATED "")
+set(lrs_VERSION "0.0.0")
+set(lrs_BUILD_DEPENDS "roscpp")
+set(lrs_RUN_DEPENDS "roscpp")
+set(lrs_BUILDTOOL_DEPENDS "catkin")

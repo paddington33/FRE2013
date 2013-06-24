@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fre2013/catkin_ws/src/lrs/devel/setup.sh
